@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Michael 👋
+
+I'm a 12-year-old web developer and 3D modeler.
+
+- 🔧 I’m currently building: MyRack (real-time server dashboard)
+- 💬 Ask me about: HTML, React, Minecraft datapacks
+- 📫 Reach me on [Discord](https://discord.gg/YOURSERVER) or [YouTube](https://youtube.com/MichaelAPerson)
