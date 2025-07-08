@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Michael 👋
 
-I'm a 12-year-old web developer and 3D modeler.
 
 - 🔧 I’m currently building: MyRack (real-time server dashboard)
 - 💬 Ask me about: HTML, React, Minecraft datapacks
