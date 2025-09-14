@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hi, I'm Michael 👋
 
 
-- 🔧 I’m currently building: MyRack (real-time server dashboard)
+- 🔧 I’m currently building: MyRack 
 - 📫 Reach me on [Discord](https://discord.gg/5qGbjamCPS) or [YouTube](https://youtube.com/@MichaelAPerson)
 
 
