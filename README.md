@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAPerson&show_icons=true&theme=radical)
+<!-- ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelAPerson&show_icons=true&theme=radical)
+-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=MichaelAPerson&theme=dark)](https://git.io/streak-stats)
+<!--
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelAPerson&theme=transparent&layout=compact&size_weight=0.1&count_weight=0.9)
+-->
 ![](https://komarev.com/ghpvc/?username=MichaelAPerson)
 
